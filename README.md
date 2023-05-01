@@ -20,3 +20,8 @@ Table below lists the specifications of Raspberry Pi models, and specifications 
 | DwBw | 2 | 17 | 17 | 62.45 | 62.45 | 62.45 | - | - | - | - |
 | Busy Pw | 0.41 | 5.9 | 5.9 | 6.4 | 5.4 | 7.6 | 30 | 40 | 15 | 60 |
 | Idle Pw | 0.0016 | 2.1 | 2.1 | 2.9 | 1.2 | 3.4 | 10 | 10 | 5 | 10 | 
+
+## Architecture Design
+
+## Arguements for the Simulation Jar File
+The simulation jar file takes four arguments: Number of Hubs, Number of Nodes per Hub, Hub Device Type and Node Device Type. 
