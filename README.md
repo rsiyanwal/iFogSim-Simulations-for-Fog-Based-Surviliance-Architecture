@@ -24,7 +24,7 @@ The table below lists the specifications of Raspberry Pi models and the specific
 ## Arguments for the Simulation Jar File
 The simulation jar file takes four arguments: Number of Hubs, Number of Nodes per Hub, Hub Device Type and Node Device Type. 
 
-**Note:** A [simulation code](https://github.com/rsiyanwal/iFogSim-Simulations-for-Fog-Based-Surviliance-Architecture/blob/main/fogSimulation.java) has been added to the repo. You should put the file in the iFogSim project at the location `..\iFogSim\src\org\fog\test\perfeval\FaunaMonitoring.java`. You should get an output similar to:
+**Note:** A [simulation code](https://github.com/rsiyanwal/iFogSim-Simulations-for-Fog-Based-Surviliance-Architecture/blob/main/fogSimulation.java) has been added to the repo. You should put the file in the iFogSim project at the location `..\iFogSim\src\org\fog\test\perfeval\fogSimulation.java`. You should get an output similar to:
 ```
 Starting Simulation for Fauna Monitoring...
 Hubs: 4 APUs: 4
