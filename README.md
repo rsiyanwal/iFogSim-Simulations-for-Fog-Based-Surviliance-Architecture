@@ -569,3 +569,19 @@ Process finished with exit code 0
 
 ## Simulations Data
 https://drive.google.com/drive/folders/1lDcNaUyOv6cWJtfZtGI9LQ1e-rYsPpJC?usp=sharing
+
+### Cite this work:
+@article{SIYANWAL2025101070, </br>
+title = {An energy efficient fog-based internet of things framework to combat wildlife poaching}, </br>
+journal = {Sustainable Computing: Informatics and Systems}, </br>
+volume = {45}, </br>
+pages = {101070}, </br>
+year = {2025}, </br>
+issn = {2210-5379}, </br>
+doi = {https://doi.org/10.1016/j.suscom.2024.101070}, </br>
+url = {https://www.sciencedirect.com/science/article/pii/S221053792400115X}, </br>
+author = {Rahul Siyanwal and Arun Agarwal and Satish Narayana Srirama}, </br>
+keywords = {Energy efficient wildlife monitoring, Internet of things, Fog computing, Sustainability, Distributed edge analytics, Simulation}, </br>
+abstract = {Wildlife trafficking, a significant global issue driven by unsubstantiated medical claims and predatory lifestyle that can lead to zoonotic diseases, involves the illegal trade of endangered and protected species. While IoT-based solutions exist to make wildlife monitoring more widespread and precise, they come with trade-offs. For instance, UAVs cover large areas but cannot detect poaching in real-time once their power is drained. Similarly, using RFID collars on all wildlife is impractical. The wildlife monitoring system should be expeditious, vigilant, and efficient. Therefore, we propose a scalable, motion-sensitive IoT-based wildlife monitoring framework that leverages distributed edge analytics and fog computing, requiring no animal contact. The framework includes 1. Motion Sensing Units (MSUs), 2. Actuating and Processing Units (APUs) containing a camera, a processing unit (such as a single-board computer), and a servo motor, and 3. Hub containing a processing unit. For communication across these components, ESP-NOW, Apache Kafka, and MQTT were employed. Tailored applications (e.g. rare species detection utilizing ML) can then be deployed on these components. This paper details the framework’s implementation, validated through tests in semi-forest and dense forest environments. The system achieved real-time monitoring, defined as a procedure of detecting motion, turning the camera, capturing an image, and transmitting it to the Hub. We also provide a detailed model for implementing the framework, supported by 2800 simulated architectures. These simulations optimize device selection for wildlife monitoring based on latency, cost, and energy consumption, contributing to conservation efforts.} </br>
+}
+
